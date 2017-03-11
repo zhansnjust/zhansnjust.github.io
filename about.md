@@ -13,7 +13,7 @@ title: "关于：About"
 
 <p class="contact">
  
- <a href="https://github.com/zhansnjust" title="Github联系我"><img src="http://www.github.com/favicon.ico" width="24" height="24" style="display:inline-block;vertical-align:middle">https://github.com/zhansnjust</a><br/>
+ <a href="https://github.com/zhansnjust" title="Github联系我"><img src="http://www.github.com/favicon.ico" width="24" height="24" style="display:inline-block;vertical-align:middle"> https://github.com/zhansnjust</a><br/>
 邮箱: sznjust@126.com 
 </p>
 
