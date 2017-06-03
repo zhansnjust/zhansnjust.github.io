@@ -1,6 +1,6 @@
 ### 博客地址
 
-改自 https://github.com/EZLippi/EZLippi.github.io
+改自 https://github.com/EZLippi/EZLippi.github.io.
 
 ### 使用Jekyll版本作为博客模板，仅需如下几步：
 
